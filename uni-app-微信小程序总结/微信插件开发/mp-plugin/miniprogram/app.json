@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "plugins": {
+    "sdkPlugin": {
+      "version": "dev",
+      "provider": "wx3b43e675a19c5f64"
+    }
+  },
+  "usingComponents": {}
+}
