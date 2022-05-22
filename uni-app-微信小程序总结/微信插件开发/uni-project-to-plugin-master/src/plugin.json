@@ -1,9 +1,0 @@
-{
-	"publicComponents": {
-		"hello-component": "components/test"
-	},
-	"pages": {
-		"hello-page": "pages/index/index"
-	},
-	"main": "common/main.js"
-}
